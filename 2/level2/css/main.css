@@ -1,0 +1,10 @@
+a[href^='https'] {
+	color: #ff0000;
+}
+ul + p {
+	font-size: 26px;
+}
+
+.list >li:last-of-type a {
+	background-color: #00ff00;
+}

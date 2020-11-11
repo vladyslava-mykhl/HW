@@ -1,0 +1,72 @@
+
+.header {
+    justify-content: space-between;
+}
+
+.header div p {
+  font-size: 15px;
+  margin: 0 30px;
+}
+
+.header div a:first-of-type {
+  font-size: 15px;
+}
+
+.header div a:last-of-type {
+  padding: 6px 10px;
+  font-size: 15px;
+}
+
+.menu__item {
+  padding: 6px 6px;
+  text-decoration: none;
+  color: #1f373d;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+} 
+
+
+.content-wrap {
+  min-height: 500px;
+}
+
+
+.title-holder {
+  width: 80%;
+  margin-left: 1%;
+}
+
+.title-holder h1 {
+  font-size: 35px;
+}
+
+.input-holder {
+  padding-top: 15px;
+}
+
+.input-holder input {
+  padding: 15px;
+  font-size: 14px;
+}
+
+.btn {
+  padding: 15px;
+  font-size: 14px;
+}
+
+.link-list a {
+  padding: 20px;
+  font-size: 14px;
+}
+
+.link-list {
+  margin: 0 -16px 0 0;
+  max-width: 300px;
+  
+}
+
+.to-buttom {
+  font-size: 16px;
+}
